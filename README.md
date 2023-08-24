@@ -1,1 +1,2 @@
 # Road-Accident-Analysis
+This project aims to develop a dynamic and informative dashboard using Power BI for analyzing road accidents. By collecting and processing road accident data, the dashboard will offer interactive visualizations, revealing patterns, trends, and factors contributing to accidents. This tool will assist stakeholders in making data-driven decisions for enhancing road safety and policy planning.
